@@ -1,29 +1,16 @@
-# formulario-final
+# formulario em VueJS / Form using Vue JS
 
-## Project setup
+- Two way data binding (v-model)
+- Submit
+- Ver Respostas / Check Submit
+
+## Project setup / Instalar Dependencias
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Rodar
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
